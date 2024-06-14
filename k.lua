@@ -1,0 +1,3 @@
+return {
+	["Test"] = {HWID = "14E24C5E-6AF2-43F7-97A3-3C1313EB5C40"}
+}
